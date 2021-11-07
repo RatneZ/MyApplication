@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message_accepted">Member accepted</string>
+    <string name="message_declined">Member declined</string>
+    <string name="title_decline">Decline</string>
+    <string name="title_accept">Accept</string>
+</resources>
